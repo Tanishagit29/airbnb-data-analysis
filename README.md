@@ -3,7 +3,7 @@
 📌 Overview
 Interactive Power BI dashboard analyzing global Airbnb data to track listings growth, pricing, reviews, ratings, and city-wise performance.
 
-🎯 Key Insights
+🎯 Key Insights:
 Total Listings: 279K+ across 10 cities
 Paris, NYC & Sydney contribute ~50% of listings
 Entire homes generate highest revenue
